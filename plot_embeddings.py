@@ -46,7 +46,7 @@ for label, (x, y, z) in data.items():
 ax.set_xlabel('X Axis')
 ax.set_ylabel('Y Axis')
 ax.set_zlabel('Z Axis')
-ax.set_title('Scatter Plot der erlernten Buchstaben Embeddings\naus 32.033 amerikanischen Vornamen')
+ax.set_title('ScatterPlot der erlernten Buchstaben Embeddings\naus 32.033 amerikanischen Vornamen')
 
 # Zeige das Diagramm
 plt.show()
